@@ -1,0 +1,77 @@
+body{
+  margin-left: 10%;
+  margin-right:10%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+h3{
+  font-size: 40px;
+}
+
+#menuLewa{
+  width: 60%;
+  height: 870px;
+  background-color: #39c22d;
+  float: left;
+  text-align: center;
+}
+
+#menuLewa table{
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#menuLewa table td {
+  padding: 10px;
+}
+
+
+#menuPrawa{
+  width: 40%;
+  height: 870px;
+  background-color: #c8f5c4;
+  float: left;
+}
+
+#zdjecie{
+  background-color: green;
+  height: 300px;
+}
+
+#zdjecie img {
+  width: 100%;
+  height: 300px;
+}
+#wybor1 {
+  height: 50px;
+  width: 100%;
+  background-color: lightgreen;
+  text-align: center;
+  padding-top: 35px;
+}
+
+#wybor2 {
+  height: 50px;
+  width: 100%;
+  background-color: #24d117;
+  text-align: center;
+  padding-top: 35px;
+}
+
+#stopka{
+  width: 100%;
+  height: 40px;
+  background-color: #ebf0eb;
+  float: left;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#stopka a{
+  padding: 20px;
+}
